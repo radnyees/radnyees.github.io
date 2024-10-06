@@ -1,4 +1,3 @@
-# radnyees.github.io
 
 
 #### Radnyee Rajesh Sarvadnya.
@@ -7,7 +6,7 @@ Research
 
 CV: [radnyee_cv](radnyee_cv.pdf)
 
-Profiles: [Twitter](https://twitter.com/RadnyeeS) and [LinkedIn](https://www.linkedin.com/in/radnyee-sarvadnya-5b4510238/)
+Profiles: [Github](https://github.com/radnyees) [Twitter](https://twitter.com/RadnyeeS) and [LinkedIn](https://www.linkedin.com/in/radnyee-sarvadnya-5b4510238/)
 
 Blog: [Substack](https://radnyees.substack.com/)
 
@@ -19,4 +18,4 @@ At the moment, I am working on my MATLAB and Python skills and exploring more on
 I am interested in working on projects related to Neuromuscular Diseases, Dementia with an intersection of technology--like Brain-Computer Interfaces (BCI). Additionally, I am also interested
 in working on projects related to Cognitive Neuroscience, Traumatic Brain Injuries and Computational Neuroscience. 
 
-Please feel free to contact me for any opportunities[sarvadnyar21@gmail.com](mailto:sarvadnyar21@gmail.com)
+Please feel free to contact me for any opportunities [sarvadnyar21@gmail.com](mailto:sarvadnyar21@gmail.com)
