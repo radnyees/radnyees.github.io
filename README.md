@@ -1,6 +1,5 @@
 
 
-#### Radnyee Rajesh Sarvadnya.
 Msc. Psychology @ Loughborough University
 
 ### Neuroscience Research Assistant
@@ -9,7 +8,7 @@ Msc. Psychology @ Loughborough University
 
 **Profiles:** [Github](https://github.com/radnyees) [Twitter](https://twitter.com/RadnyeeS) and [LinkedIn](https://www.linkedin.com/in/radnyee-sarvadnya-5b4510238/)
 
-Blog: [Substack](https://radnyees.substack.com/)
+**Blog:** [Substack](https://radnyees.substack.com/)
 
 I'm a Psychologist & pursuing caeer in Neuroscience; I perform data analysis/visualization work for research labs, as well as technical and content writing for science magazines and blogs.
 
