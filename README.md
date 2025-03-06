@@ -10,7 +10,7 @@ Msc. Psychology @ Loughborough University
 
 **Blog:** [Substack](https://radnyees.substack.com/)
 
-I'm a Psychologist & pursuing caeer in Neuroscience; I perform data analysis/visualization work for research labs, as well as technical and content writing for science magazines and blogs.
+I'm a Psychologist & pursuing career in Neuroscience; I perform data analysis/visualization work for research labs, as well as technical and content writing for science magazines and blogs.
 
 - Data analysis & visualization
 - Working with MRI, fMRI, EEG data etc.
