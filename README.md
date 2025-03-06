@@ -28,9 +28,10 @@ I am seeking for opportunities where I can combine my skillsets from both discip
 Exploiting adaptive neurofeedback to reroute neural signals to BCI devices; currently working on a proof-of-concept in MNE-Python. [MyastheniaGravis and Brain-Computer Interfaces](https://radnyees.substack.com/p/myasthenia-gravis-and-brain-computer).
 
 **My Interests:**
-1) Computational Neuroscience
-2) Neuromuscular Diseases
-3) Neurodevelopmental Diseases
-4) Neurodegenerative Diseases like Dementia and Alzheimer's
+
+1. Computational Neuroscience
+2. Neuromuscular Diseases
+3. Neurodevelopmental Diseases
+4. Neurodegenerative Diseases like Dementia and Alzheimer's
 
 Please feel free to contact me for any opportunities [sarvadnyar21@gmail.com](mailto:sarvadnyar21@gmail.com)
