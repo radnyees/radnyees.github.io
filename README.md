@@ -3,11 +3,11 @@
 #### Radnyee Rajesh Sarvadnya.
 Msc. Psychology @ Loughborough University
 
-Neuroscience Research Assistant
+### Neuroscience Research Assistant
 
-CV: [radnyee_cv](radnyee_cv.pdf)
+**CV:** [radnyee_cv](radnyee_cv.pdf)
 
-Profiles: [Github](https://github.com/radnyees) [Twitter](https://twitter.com/RadnyeeS) and [LinkedIn](https://www.linkedin.com/in/radnyee-sarvadnya-5b4510238/)
+**Profiles:** [Github](https://github.com/radnyees) [Twitter](https://twitter.com/RadnyeeS) and [LinkedIn](https://www.linkedin.com/in/radnyee-sarvadnya-5b4510238/)
 
 Blog: [Substack](https://radnyees.substack.com/)
 
@@ -24,11 +24,11 @@ At the moment, working with as a freelancer for a stealth start-up as a Neurosci
 I have a previous background in working with Neurodevelopmental and Neurodegenerative disorders through various internships during my undergrad.
 I am seeking for opportunities where I can combine my skillsets from both disciplines.
 
-Previous Amateur Passion Projects:
+**Previous Amateur Passion Projects:**
 
 Exploiting adaptive neurofeedback to reroute neural signals to BCI devices; currently working on a proof-of-concept in MNE-Python. [MyastheniaGravis and Brain-Computer Interfaces](https://radnyees.substack.com/p/myasthenia-gravis-and-brain-computer).
 
-My Interests:
+**My Interests:**
 1) Computational Neuroscience
 2) Neuromuscular Diseases
 3) Neurodevelopmental Diseases
