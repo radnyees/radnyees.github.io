@@ -2,7 +2,8 @@
 
 #### Radnyee Rajesh Sarvadnya.
 Msc. Psychology @ Loughborough University
-Research
+
+Neuroscience Research Assistant
 
 CV: [radnyee_cv](radnyee_cv.pdf)
 
@@ -10,12 +11,27 @@ Profiles: [Github](https://github.com/radnyees) [Twitter](https://twitter.com/Ra
 
 Blog: [Substack](https://radnyees.substack.com/)
 
+I'm a Psychologist & pursuing caeer in Neuroscience; I perform data analysis/visualization work for research labs, as well as technical and content writing for science magazines and blogs.
 
-I am a MSc. Psychology student at Loughborough University. I have a previous background in working with Neurodevelopmental and Neurodegenerative disorders through various internships during my undergrad. Having a Masters degree in Business Psychology right now, I am aiming to pursue a career in the field of Neuroscience. My goal is to pursue a PhD in Neuroscience, and I am currently looking for potential research opportunities.
+- Data analysis & visualization
+- Working with MRI, fMRI, EEG data etc.
+- Machine learning, image processing
+- Python (pytorch, scipy, sklearn, mne, fooof), R, MATLAB (Simulink)
+- Technical and Academic writing
 
-At the moment, I am working on my MATLAB and Python skills and exploring more on the project on my mind [MyastheniaGravis and Brain-Computer Interfaces](https://radnyees.substack.com/p/myasthenia-gravis-and-brain-computer).
+At the moment, working with as a freelancer for a stealth start-up as a Neuroscience Research Data Analyst.
 
-I am interested in working on projects related to Neuromuscular Diseases, Dementia with an intersection of technology--like Brain-Computer Interfaces (BCI). Additionally, I am also interested
-in working on projects related to Cognitive Neuroscience, Traumatic Brain Injuries and Computational Neuroscience. 
+I have a previous background in working with Neurodevelopmental and Neurodegenerative disorders through various internships during my undergrad.
+I am seeking for opportunities where I can combine my skillsets from both disciplines.
+
+Previous Amateur Passion Projects:
+
+Exploiting adaptive neurofeedback to reroute neural signals to BCI devices; currently working on a proof-of-concept in MNE-Python. [MyastheniaGravis and Brain-Computer Interfaces](https://radnyees.substack.com/p/myasthenia-gravis-and-brain-computer).
+
+My Interests:
+1) Computational Neuroscience
+2) Neuromuscular Diseases
+3) Neurodevelopmental Diseases
+4) Neurodegenerative Diseases like Dementia and Alzheimer's
 
 Please feel free to contact me for any opportunities [sarvadnyar21@gmail.com](mailto:sarvadnyar21@gmail.com)
