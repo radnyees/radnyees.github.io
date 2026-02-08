@@ -18,7 +18,7 @@ I'm a Psychologist & pursuing career in Neuroscience; I perform data analysis/vi
 - Python (pytorch, scipy, sklearn, mne, fooof), R, MATLAB (Simulink)
 - Technical and Academic writing
 
-At the moment, working with as a freelancer for a stealth start-up as a Neuroscience Research Data Analyst.
+At the moment, working with as a freelancer for a stealth start-up as a Neuroscience Research Data Analyst. 
 
 I have a previous background in working with Neurodevelopmental and Neurodegenerative disorders through various internships during my undergrad.
 I am seeking for opportunities where I can combine my skillsets from both disciplines.
